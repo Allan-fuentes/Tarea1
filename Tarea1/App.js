@@ -77,7 +77,7 @@ const App = () => {
       >
         <View style={styles.modalContainer}>
           <View style={styles.modalContent}>
-            {/* Campo de entrada para el nombre del cliente */}
+            {/* Campo de entrada para el nombre del clientes */}
             <TextInput
               style={styles.input}
               placeholder="Nombre del Cliente"
